@@ -1,8 +1,8 @@
 # School_district_analysis
 
-##Overview of the school district analysis 
+## Overview of the school district analysis 
 This project shows evidence of academic dishonesty of reading and math grades for Thomas High School ninth grade. Maria has asked to clear all ninth grades to NaaN and continue the analysis for the rest. 
-##Results 
+## Results 
 •	District Summary Impact: once dropping 9th grades, the score indicators all decreased except for average reading score. 
 ![image](https://user-images.githubusercontent.com/107721712/180778189-0928b6f3-8e21-4718-826a-f63d65a05a01.png)
 •	School Summary Impact: Thomas High School’s passing percentages have increased significantly after clearing 9th grade results. 
@@ -16,5 +16,5 @@ This project shows evidence of academic dishonesty of reading and math grades fo
 ![image](https://user-images.githubusercontent.com/107721712/180899781-058a29ab-eee8-4a37-89ad-9f6bbf5de5db.png)
 •	Scores by school typeSummary: scores by school type summary is unchanged.
 ![image](https://user-images.githubusercontent.com/107721712/180899998-b97c2806-4656-4ee9-9331-ab92c2a57420.png)
-##Summary 
+## Summary 
 Since nineth grade results have been taken out, Thomas High School has a smaller number of students to calculate the average scores of math and reading. Due to dishonesty, the passing rates have been dropped. 
